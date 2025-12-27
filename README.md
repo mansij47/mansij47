@@ -43,7 +43,7 @@ I'm a passionate full-stack developer focused on building scalable and performan
 
 </div>
 
-## 📊 GitHub Stats
+
 
 <div align="center">
   
@@ -57,11 +57,10 @@ I'm a passionate full-stack developer focused on building scalable and performan
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mansijgupta06&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-  
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=mansij47&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mansij47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansij47&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Graph
 
