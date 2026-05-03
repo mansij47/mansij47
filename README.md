@@ -1,4 +1,5 @@
-# Hi there, I'm Mansij Gupta! 👋
+
+![Hacker](https://coolreadme.xyz/api/hacker?user=mansij47&status=Building%207seers&accent=%23F87171)
 
 <div align="center">
   
